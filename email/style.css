@@ -1,0 +1,109 @@
+.titleheader {
+    font-size: 55px;
+    color: #20b4bb;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+
+.titleperson {
+    font-size: 36px;
+    color: #bcbcbd;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+
+table {
+    background-color: #0c131b;
+    max-width: 600px;
+}
+
+p {
+    font-size: 14px;
+    line-height: 22px;
+    color: #86918c;
+    font-family: "Arial";
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+.titlebody {
+    margin-bottom: 50px;
+}
+
+.yellowtext {
+    color: #d09230;
+}
+
+.orangetext {
+    color: #fa5d26;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.button{
+    display: inline-block;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: none;
+    color: #fffff8;
+    font-weight: bold;
+    font-family: "Arial";
+    width: 299px;
+    border-radius: 3px;
+    background-color: #9f15a9;
+    padding-top: 15px;
+    padding-bottom: 16px;
+
+}
+.violetheader{
+    color: #9f15a9;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: "Arial";
+    text-transform: uppercase;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+.fontcorrection{
+    font-size: 36px;
+    margin-bottom: 0px;
+}
+.bottomcorrection{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 24px;
+}
+.buttoncorrection{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 55px; 
+    margin-bottom: 40px;
+}
+.orangetextcorrection{
+    font-size: 14px;
+line-height: 22px;
+color: #fa5d26;
+font-family: "Arial";
+}
+.milktea{
+    background-color: #edd3ae;
+}
+.violetbody{
+    font-size: 36px;
+color: #263870;
+font-weight: bold;
+font-family: "Arial";
+text-align: center;
+}
+.blacktext{
+    font-size: 14px;
+line-height: 22px;
+color: #000000;
+font-family: "Arial";
+text-align: center;
+}
